@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-sambanova
+pydantic
+langgraph
+tavily-python
+ipython
